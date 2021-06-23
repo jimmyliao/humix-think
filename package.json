@@ -29,30 +29,30 @@
     },
     {
       "name": "Jimmy Liao",
-      "email": "taiwan.jimmyliao@gmail.com"
+      "email": "sjliao@gmail.com"
     }
   ],
   "dependencies": {
     "async": "1.5.0",
     "bluebird": "^3.5.0",
     "body-parser": "latest",
-    "cfenv": "~1.0.0",
+    "cfenv": "~1.2.3",
     "express": "latest",
     "ioredis": "^2.5.0",
     "logule": "latest",
-    "mqtt": "0.3.x",
-    "nano": "~5.11.0",
+    "mqtt": "4.2.8",
+    "nano": "~9.0.3",
     "needle": "^1.6.0",
-    "node-red": "^0.16.2",
+    "node-red": "^0.19.6",
     "node-red-contrib-humix": "^1.0.7",
     "q": "^1.5.0",
     "request": "^2.65.0",
     "when": "~3.x",
-    "ws": "1.1.1"
+    "ws": "~7.5.0"
   },
   "devDependencies": {
-    "mocha": "2.2.5",
-    "should": "6.0.3"
+    "mocha": "~7.1.0",
+    "should": "~13.2.3"
   },
   "engines": {
     "node": ">=4.2"
